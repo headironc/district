@@ -1,0 +1,2024 @@
+[
+  {
+    "name": "北京市",
+    "code": "110100",
+    "id": "62b5e13b9411636a7838adb4",
+    "province": "62b5dbb69411636a7838ad8f"
+  },
+  {
+    "name": "天津市",
+    "code": "120100",
+    "id": "62b5e13b9411636a7838adb5",
+    "province": "62b5dbb69411636a7838ad90"
+  },
+  {
+    "name": "石家庄市",
+    "code": "130100",
+    "id": "62b5e13b9411636a7838adb6",
+    "province": "62b5dbb69411636a7838ad91"
+  },
+  {
+    "name": "唐山市",
+    "code": "130200",
+    "id": "62b5e13b9411636a7838adb7",
+    "province": "62b5dbb69411636a7838ad91"
+  },
+  {
+    "name": "秦皇岛市",
+    "code": "130300",
+    "id": "62b5e13b9411636a7838adb8",
+    "province": "62b5dbb69411636a7838ad91"
+  },
+  {
+    "name": "邯郸市",
+    "code": "130400",
+    "id": "62b5e13b9411636a7838adb9",
+    "province": "62b5dbb69411636a7838ad91"
+  },
+  {
+    "name": "邢台市",
+    "code": "130500",
+    "id": "62b5e13b9411636a7838adba",
+    "province": "62b5dbb69411636a7838ad91"
+  },
+  {
+    "name": "保定市",
+    "code": "130600",
+    "id": "62b5e13b9411636a7838adbb",
+    "province": "62b5dbb69411636a7838ad91"
+  },
+  {
+    "name": "张家口市",
+    "code": "130700",
+    "id": "62b5e13b9411636a7838adbc",
+    "province": "62b5dbb69411636a7838ad91"
+  },
+  {
+    "name": "承德市",
+    "code": "130800",
+    "id": "62b5e13b9411636a7838adbd",
+    "province": "62b5dbb69411636a7838ad91"
+  },
+  {
+    "name": "沧州市",
+    "code": "130900",
+    "id": "62b5e13b9411636a7838adbe",
+    "province": "62b5dbb69411636a7838ad91"
+  },
+  {
+    "name": "廊坊市",
+    "code": "131000",
+    "id": "62b5e13b9411636a7838adbf",
+    "province": "62b5dbb69411636a7838ad91"
+  },
+  {
+    "name": "衡水市",
+    "code": "131100",
+    "id": "62b5e13b9411636a7838adc0",
+    "province": "62b5dbb69411636a7838ad91"
+  },
+  {
+    "name": "太原市",
+    "code": "140100",
+    "id": "62b5e13b9411636a7838adc1",
+    "province": "62b5dbb69411636a7838ad92"
+  },
+  {
+    "name": "大同市",
+    "code": "140200",
+    "id": "62b5e13b9411636a7838adc2",
+    "province": "62b5dbb69411636a7838ad92"
+  },
+  {
+    "name": "阳泉市",
+    "code": "140300",
+    "id": "62b5e13b9411636a7838adc3",
+    "province": "62b5dbb69411636a7838ad92"
+  },
+  {
+    "name": "长治市",
+    "code": "140400",
+    "id": "62b5e13b9411636a7838adc4",
+    "province": "62b5dbb69411636a7838ad92"
+  },
+  {
+    "name": "晋城市",
+    "code": "140500",
+    "id": "62b5e13b9411636a7838adc5",
+    "province": "62b5dbb69411636a7838ad92"
+  },
+  {
+    "name": "朔州市",
+    "code": "140600",
+    "id": "62b5e13b9411636a7838adc6",
+    "province": "62b5dbb69411636a7838ad92"
+  },
+  {
+    "name": "晋中市",
+    "code": "140700",
+    "id": "62b5e13b9411636a7838adc7",
+    "province": "62b5dbb69411636a7838ad92"
+  },
+  {
+    "name": "运城市",
+    "code": "140800",
+    "id": "62b5e13b9411636a7838adc8",
+    "province": "62b5dbb69411636a7838ad92"
+  },
+  {
+    "name": "忻州市",
+    "code": "140900",
+    "id": "62b5e13b9411636a7838adc9",
+    "province": "62b5dbb69411636a7838ad92"
+  },
+  {
+    "name": "临汾市",
+    "code": "141000",
+    "id": "62b5e13b9411636a7838adca",
+    "province": "62b5dbb69411636a7838ad92"
+  },
+  {
+    "name": "吕梁市",
+    "code": "141100",
+    "id": "62b5e13b9411636a7838adcb",
+    "province": "62b5dbb69411636a7838ad92"
+  },
+  {
+    "name": "呼和浩特市",
+    "code": "150100",
+    "id": "62b5e13b9411636a7838adcc",
+    "province": "62b5dbb69411636a7838ad93"
+  },
+  {
+    "name": "包头市",
+    "code": "150200",
+    "id": "62b5e13b9411636a7838adcd",
+    "province": "62b5dbb69411636a7838ad93"
+  },
+  {
+    "name": "乌海市",
+    "code": "150300",
+    "id": "62b5e13b9411636a7838adce",
+    "province": "62b5dbb69411636a7838ad93"
+  },
+  {
+    "name": "赤峰市",
+    "code": "150400",
+    "id": "62b5e13b9411636a7838adcf",
+    "province": "62b5dbb69411636a7838ad93"
+  },
+  {
+    "name": "通辽市",
+    "code": "150500",
+    "id": "62b5e13b9411636a7838add0",
+    "province": "62b5dbb69411636a7838ad93"
+  },
+  {
+    "name": "鄂尔多斯市",
+    "code": "150600",
+    "id": "62b5e13b9411636a7838add1",
+    "province": "62b5dbb69411636a7838ad93"
+  },
+  {
+    "name": "呼伦贝尔市",
+    "code": "150700",
+    "id": "62b5e13b9411636a7838add2",
+    "province": "62b5dbb69411636a7838ad93"
+  },
+  {
+    "name": "巴彦淖尔市",
+    "code": "150800",
+    "id": "62b5e13b9411636a7838add3",
+    "province": "62b5dbb69411636a7838ad93"
+  },
+  {
+    "name": "乌兰察布市",
+    "code": "150900",
+    "id": "62b5e13b9411636a7838add4",
+    "province": "62b5dbb69411636a7838ad93"
+  },
+  {
+    "name": "兴安盟",
+    "code": "152200",
+    "id": "62b5e13b9411636a7838add5",
+    "province": "62b5dbb69411636a7838ad93"
+  },
+  {
+    "name": "锡林郭勒盟",
+    "code": "152500",
+    "id": "62b5e13b9411636a7838add6",
+    "province": "62b5dbb69411636a7838ad93"
+  },
+  {
+    "name": "阿拉善盟",
+    "code": "152900",
+    "id": "62b5e13b9411636a7838add7",
+    "province": "62b5dbb69411636a7838ad93"
+  },
+  {
+    "name": "沈阳市",
+    "code": "210100",
+    "id": "62b5e13b9411636a7838add8",
+    "province": "62b5dbb69411636a7838ad94"
+  },
+  {
+    "name": "大连市",
+    "code": "210200",
+    "id": "62b5e13b9411636a7838add9",
+    "province": "62b5dbb69411636a7838ad94"
+  },
+  {
+    "name": "鞍山市",
+    "code": "210300",
+    "id": "62b5e13b9411636a7838adda",
+    "province": "62b5dbb69411636a7838ad94"
+  },
+  {
+    "name": "抚顺市",
+    "code": "210400",
+    "id": "62b5e13b9411636a7838addb",
+    "province": "62b5dbb69411636a7838ad94"
+  },
+  {
+    "name": "本溪市",
+    "code": "210500",
+    "id": "62b5e13b9411636a7838addc",
+    "province": "62b5dbb69411636a7838ad94"
+  },
+  {
+    "name": "丹东市",
+    "code": "210600",
+    "id": "62b5e13b9411636a7838addd",
+    "province": "62b5dbb69411636a7838ad94"
+  },
+  {
+    "name": "锦州市",
+    "code": "210700",
+    "id": "62b5e13b9411636a7838adde",
+    "province": "62b5dbb69411636a7838ad94"
+  },
+  {
+    "name": "营口市",
+    "code": "210800",
+    "id": "62b5e13b9411636a7838addf",
+    "province": "62b5dbb69411636a7838ad94"
+  },
+  {
+    "name": "阜新市",
+    "code": "210900",
+    "id": "62b5e13b9411636a7838ade0",
+    "province": "62b5dbb69411636a7838ad94"
+  },
+  {
+    "name": "辽阳市",
+    "code": "211000",
+    "id": "62b5e13b9411636a7838ade1",
+    "province": "62b5dbb69411636a7838ad94"
+  },
+  {
+    "name": "盘锦市",
+    "code": "211100",
+    "id": "62b5e13b9411636a7838ade2",
+    "province": "62b5dbb69411636a7838ad94"
+  },
+  {
+    "name": "铁岭市",
+    "code": "211200",
+    "id": "62b5e13b9411636a7838ade3",
+    "province": "62b5dbb69411636a7838ad94"
+  },
+  {
+    "name": "朝阳市",
+    "code": "211300",
+    "id": "62b5e13b9411636a7838ade4",
+    "province": "62b5dbb69411636a7838ad94"
+  },
+  {
+    "name": "葫芦岛市",
+    "code": "211400",
+    "id": "62b5e13b9411636a7838ade5",
+    "province": "62b5dbb69411636a7838ad94"
+  },
+  {
+    "name": "长春市",
+    "code": "220100",
+    "id": "62b5e13b9411636a7838ade6",
+    "province": "62b5dbb69411636a7838ad95"
+  },
+  {
+    "name": "吉林市",
+    "code": "220200",
+    "id": "62b5e13b9411636a7838ade7",
+    "province": "62b5dbb69411636a7838ad95"
+  },
+  {
+    "name": "四平市",
+    "code": "220300",
+    "id": "62b5e13b9411636a7838ade8",
+    "province": "62b5dbb69411636a7838ad95"
+  },
+  {
+    "name": "辽源市",
+    "code": "220400",
+    "id": "62b5e13b9411636a7838ade9",
+    "province": "62b5dbb69411636a7838ad95"
+  },
+  {
+    "name": "通化市",
+    "code": "220500",
+    "id": "62b5e13b9411636a7838adea",
+    "province": "62b5dbb69411636a7838ad95"
+  },
+  {
+    "name": "白山市",
+    "code": "220600",
+    "id": "62b5e13b9411636a7838adeb",
+    "province": "62b5dbb69411636a7838ad95"
+  },
+  {
+    "name": "松原市",
+    "code": "220700",
+    "id": "62b5e13b9411636a7838adec",
+    "province": "62b5dbb69411636a7838ad95"
+  },
+  {
+    "name": "白城市",
+    "code": "220800",
+    "id": "62b5e13b9411636a7838aded",
+    "province": "62b5dbb69411636a7838ad95"
+  },
+  {
+    "name": "延边朝鲜族自治州",
+    "code": "222400",
+    "id": "62b5e13b9411636a7838adee",
+    "province": "62b5dbb69411636a7838ad95"
+  },
+  {
+    "name": "哈尔滨市",
+    "code": "230100",
+    "id": "62b5e13b9411636a7838adef",
+    "province": "62b5dbb69411636a7838ad96"
+  },
+  {
+    "name": "齐齐哈尔市",
+    "code": "230200",
+    "id": "62b5e13b9411636a7838adf0",
+    "province": "62b5dbb69411636a7838ad96"
+  },
+  {
+    "name": "鸡西市",
+    "code": "230300",
+    "id": "62b5e13b9411636a7838adf1",
+    "province": "62b5dbb69411636a7838ad96"
+  },
+  {
+    "name": "鹤岗市",
+    "code": "230400",
+    "id": "62b5e13b9411636a7838adf2",
+    "province": "62b5dbb69411636a7838ad96"
+  },
+  {
+    "name": "双鸭山市",
+    "code": "230500",
+    "id": "62b5e13b9411636a7838adf3",
+    "province": "62b5dbb69411636a7838ad96"
+  },
+  {
+    "name": "大庆市",
+    "code": "230600",
+    "id": "62b5e13b9411636a7838adf4",
+    "province": "62b5dbb69411636a7838ad96"
+  },
+  {
+    "name": "伊春市",
+    "code": "230700",
+    "id": "62b5e13b9411636a7838adf5",
+    "province": "62b5dbb69411636a7838ad96"
+  },
+  {
+    "name": "佳木斯市",
+    "code": "230800",
+    "id": "62b5e13b9411636a7838adf6",
+    "province": "62b5dbb69411636a7838ad96"
+  },
+  {
+    "name": "七台河市",
+    "code": "230900",
+    "id": "62b5e13b9411636a7838adf7",
+    "province": "62b5dbb69411636a7838ad96"
+  },
+  {
+    "name": "牡丹江市",
+    "code": "231000",
+    "id": "62b5e13b9411636a7838adf8",
+    "province": "62b5dbb69411636a7838ad96"
+  },
+  {
+    "name": "黑河市",
+    "code": "231100",
+    "id": "62b5e13b9411636a7838adf9",
+    "province": "62b5dbb69411636a7838ad96"
+  },
+  {
+    "name": "绥化市",
+    "code": "231200",
+    "id": "62b5e13b9411636a7838adfa",
+    "province": "62b5dbb69411636a7838ad96"
+  },
+  {
+    "name": "大兴安岭地区",
+    "code": "232700",
+    "id": "62b5e13b9411636a7838adfb",
+    "province": "62b5dbb69411636a7838ad96"
+  },
+  {
+    "name": "上海市",
+    "code": "310100",
+    "id": "62b5e13b9411636a7838adfc",
+    "province": "62b5dbb69411636a7838ad97"
+  },
+  {
+    "name": "南京市",
+    "code": "320100",
+    "id": "62b5e13b9411636a7838adfd",
+    "province": "62b5dbb69411636a7838ad98"
+  },
+  {
+    "name": "无锡市",
+    "code": "320200",
+    "id": "62b5e13b9411636a7838adfe",
+    "province": "62b5dbb69411636a7838ad98"
+  },
+  {
+    "name": "徐州市",
+    "code": "320300",
+    "id": "62b5e13b9411636a7838adff",
+    "province": "62b5dbb69411636a7838ad98"
+  },
+  {
+    "name": "常州市",
+    "code": "320400",
+    "id": "62b5e13b9411636a7838ae00",
+    "province": "62b5dbb69411636a7838ad98"
+  },
+  {
+    "name": "苏州市",
+    "code": "320500",
+    "id": "62b5e13b9411636a7838ae01",
+    "province": "62b5dbb69411636a7838ad98"
+  },
+  {
+    "name": "南通市",
+    "code": "320600",
+    "id": "62b5e13b9411636a7838ae02",
+    "province": "62b5dbb69411636a7838ad98"
+  },
+  {
+    "name": "连云港市",
+    "code": "320700",
+    "id": "62b5e13b9411636a7838ae03",
+    "province": "62b5dbb69411636a7838ad98"
+  },
+  {
+    "name": "淮安市",
+    "code": "320800",
+    "id": "62b5e13b9411636a7838ae04",
+    "province": "62b5dbb69411636a7838ad98"
+  },
+  {
+    "name": "盐城市",
+    "code": "320900",
+    "id": "62b5e13b9411636a7838ae05",
+    "province": "62b5dbb69411636a7838ad98"
+  },
+  {
+    "name": "扬州市",
+    "code": "321000",
+    "id": "62b5e13b9411636a7838ae06",
+    "province": "62b5dbb69411636a7838ad98"
+  },
+  {
+    "name": "镇江市",
+    "code": "321100",
+    "id": "62b5e13b9411636a7838ae07",
+    "province": "62b5dbb69411636a7838ad98"
+  },
+  {
+    "name": "泰州市",
+    "code": "321200",
+    "id": "62b5e13b9411636a7838ae08",
+    "province": "62b5dbb69411636a7838ad98"
+  },
+  {
+    "name": "宿迁市",
+    "code": "321300",
+    "id": "62b5e13b9411636a7838ae09",
+    "province": "62b5dbb69411636a7838ad98"
+  },
+  {
+    "name": "杭州市",
+    "code": "330100",
+    "id": "62b5e13b9411636a7838ae0a",
+    "province": "62b5dbb69411636a7838ad99"
+  },
+  {
+    "name": "宁波市",
+    "code": "330200",
+    "id": "62b5e13b9411636a7838ae0b",
+    "province": "62b5dbb69411636a7838ad99"
+  },
+  {
+    "name": "温州市",
+    "code": "330300",
+    "id": "62b5e13b9411636a7838ae0c",
+    "province": "62b5dbb69411636a7838ad99"
+  },
+  {
+    "name": "嘉兴市",
+    "code": "330400",
+    "id": "62b5e13b9411636a7838ae0d",
+    "province": "62b5dbb69411636a7838ad99"
+  },
+  {
+    "name": "湖州市",
+    "code": "330500",
+    "id": "62b5e13b9411636a7838ae0e",
+    "province": "62b5dbb69411636a7838ad99"
+  },
+  {
+    "name": "绍兴市",
+    "code": "330600",
+    "id": "62b5e13b9411636a7838ae0f",
+    "province": "62b5dbb69411636a7838ad99"
+  },
+  {
+    "name": "金华市",
+    "code": "330700",
+    "id": "62b5e13b9411636a7838ae10",
+    "province": "62b5dbb69411636a7838ad99"
+  },
+  {
+    "name": "衢州市",
+    "code": "330800",
+    "id": "62b5e13b9411636a7838ae11",
+    "province": "62b5dbb69411636a7838ad99"
+  },
+  {
+    "name": "舟山市",
+    "code": "330900",
+    "id": "62b5e13b9411636a7838ae12",
+    "province": "62b5dbb69411636a7838ad99"
+  },
+  {
+    "name": "台州市",
+    "code": "331000",
+    "id": "62b5e13b9411636a7838ae13",
+    "province": "62b5dbb69411636a7838ad99"
+  },
+  {
+    "name": "丽水市",
+    "code": "331100",
+    "id": "62b5e13b9411636a7838ae14",
+    "province": "62b5dbb69411636a7838ad99"
+  },
+  {
+    "name": "合肥市",
+    "code": "340100",
+    "id": "62b5e13b9411636a7838ae15",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "芜湖市",
+    "code": "340200",
+    "id": "62b5e13b9411636a7838ae16",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "蚌埠市",
+    "code": "340300",
+    "id": "62b5e13b9411636a7838ae17",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "淮南市",
+    "code": "340400",
+    "id": "62b5e13b9411636a7838ae18",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "马鞍山市",
+    "code": "340500",
+    "id": "62b5e13b9411636a7838ae19",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "淮北市",
+    "code": "340600",
+    "id": "62b5e13b9411636a7838ae1a",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "铜陵市",
+    "code": "340700",
+    "id": "62b5e13b9411636a7838ae1b",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "安庆市",
+    "code": "340800",
+    "id": "62b5e13b9411636a7838ae1c",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "黄山市",
+    "code": "341000",
+    "id": "62b5e13b9411636a7838ae1d",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "滁州市",
+    "code": "341100",
+    "id": "62b5e13b9411636a7838ae1e",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "阜阳市",
+    "code": "341200",
+    "id": "62b5e13b9411636a7838ae1f",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "宿州市",
+    "code": "341300",
+    "id": "62b5e13b9411636a7838ae20",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "六安市",
+    "code": "341500",
+    "id": "62b5e13b9411636a7838ae21",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "亳州市",
+    "code": "341600",
+    "id": "62b5e13b9411636a7838ae22",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "池州市",
+    "code": "341700",
+    "id": "62b5e13b9411636a7838ae23",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "宣城市",
+    "code": "341800",
+    "id": "62b5e13b9411636a7838ae24",
+    "province": "62b5dbb69411636a7838ad9a"
+  },
+  {
+    "name": "福州市",
+    "code": "350100",
+    "id": "62b5e13b9411636a7838ae25",
+    "province": "62b5dbb69411636a7838ad9b"
+  },
+  {
+    "name": "厦门市",
+    "code": "350200",
+    "id": "62b5e13b9411636a7838ae26",
+    "province": "62b5dbb69411636a7838ad9b"
+  },
+  {
+    "name": "莆田市",
+    "code": "350300",
+    "id": "62b5e13b9411636a7838ae27",
+    "province": "62b5dbb69411636a7838ad9b"
+  },
+  {
+    "name": "三明市",
+    "code": "350400",
+    "id": "62b5e13b9411636a7838ae28",
+    "province": "62b5dbb69411636a7838ad9b"
+  },
+  {
+    "name": "泉州市",
+    "code": "350500",
+    "id": "62b5e13b9411636a7838ae29",
+    "province": "62b5dbb69411636a7838ad9b"
+  },
+  {
+    "name": "漳州市",
+    "code": "350600",
+    "id": "62b5e13b9411636a7838ae2a",
+    "province": "62b5dbb69411636a7838ad9b"
+  },
+  {
+    "name": "南平市",
+    "code": "350700",
+    "id": "62b5e13b9411636a7838ae2b",
+    "province": "62b5dbb69411636a7838ad9b"
+  },
+  {
+    "name": "龙岩市",
+    "code": "350800",
+    "id": "62b5e13b9411636a7838ae2c",
+    "province": "62b5dbb69411636a7838ad9b"
+  },
+  {
+    "name": "宁德市",
+    "code": "350900",
+    "id": "62b5e13b9411636a7838ae2d",
+    "province": "62b5dbb69411636a7838ad9b"
+  },
+  {
+    "name": "南昌市",
+    "code": "360100",
+    "id": "62b5e13b9411636a7838ae2e",
+    "province": "62b5dbb69411636a7838ad9c"
+  },
+  {
+    "name": "景德镇市",
+    "code": "360200",
+    "id": "62b5e13b9411636a7838ae2f",
+    "province": "62b5dbb69411636a7838ad9c"
+  },
+  {
+    "name": "萍乡市",
+    "code": "360300",
+    "id": "62b5e13b9411636a7838ae30",
+    "province": "62b5dbb69411636a7838ad9c"
+  },
+  {
+    "name": "九江市",
+    "code": "360400",
+    "id": "62b5e13b9411636a7838ae31",
+    "province": "62b5dbb69411636a7838ad9c"
+  },
+  {
+    "name": "新余市",
+    "code": "360500",
+    "id": "62b5e13b9411636a7838ae32",
+    "province": "62b5dbb69411636a7838ad9c"
+  },
+  {
+    "name": "鹰潭市",
+    "code": "360600",
+    "id": "62b5e13b9411636a7838ae33",
+    "province": "62b5dbb69411636a7838ad9c"
+  },
+  {
+    "name": "赣州市",
+    "code": "360700",
+    "id": "62b5e13b9411636a7838ae34",
+    "province": "62b5dbb69411636a7838ad9c"
+  },
+  {
+    "name": "吉安市",
+    "code": "360800",
+    "id": "62b5e13b9411636a7838ae35",
+    "province": "62b5dbb69411636a7838ad9c"
+  },
+  {
+    "name": "宜春市",
+    "code": "360900",
+    "id": "62b5e13b9411636a7838ae36",
+    "province": "62b5dbb69411636a7838ad9c"
+  },
+  {
+    "name": "抚州市",
+    "code": "361000",
+    "id": "62b5e13b9411636a7838ae37",
+    "province": "62b5dbb69411636a7838ad9c"
+  },
+  {
+    "name": "上饶市",
+    "code": "361100",
+    "id": "62b5e13b9411636a7838ae38",
+    "province": "62b5dbb69411636a7838ad9c"
+  },
+  {
+    "name": "济南市",
+    "code": "370100",
+    "id": "62b5e13b9411636a7838ae39",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "青岛市",
+    "code": "370200",
+    "id": "62b5e13b9411636a7838ae3a",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "淄博市",
+    "code": "370300",
+    "id": "62b5e13b9411636a7838ae3b",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "枣庄市",
+    "code": "370400",
+    "id": "62b5e13b9411636a7838ae3c",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "东营市",
+    "code": "370500",
+    "id": "62b5e13b9411636a7838ae3d",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "烟台市",
+    "code": "370600",
+    "id": "62b5e13b9411636a7838ae3e",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "潍坊市",
+    "code": "370700",
+    "id": "62b5e13b9411636a7838ae3f",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "济宁市",
+    "code": "370800",
+    "id": "62b5e13b9411636a7838ae40",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "泰安市",
+    "code": "370900",
+    "id": "62b5e13b9411636a7838ae41",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "威海市",
+    "code": "371000",
+    "id": "62b5e13b9411636a7838ae42",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "日照市",
+    "code": "371100",
+    "id": "62b5e13b9411636a7838ae43",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "临沂市",
+    "code": "371300",
+    "id": "62b5e13b9411636a7838ae44",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "德州市",
+    "code": "371400",
+    "id": "62b5e13b9411636a7838ae45",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "聊城市",
+    "code": "371500",
+    "id": "62b5e13b9411636a7838ae46",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "滨州市",
+    "code": "371600",
+    "id": "62b5e13b9411636a7838ae47",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "菏泽市",
+    "code": "371700",
+    "id": "62b5e13b9411636a7838ae48",
+    "province": "62b5dbb69411636a7838ad9d"
+  },
+  {
+    "name": "郑州市",
+    "code": "410100",
+    "id": "62b5e13b9411636a7838ae49",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "开封市",
+    "code": "410200",
+    "id": "62b5e13b9411636a7838ae4a",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "洛阳市",
+    "code": "410300",
+    "id": "62b5e13b9411636a7838ae4b",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "平顶山市",
+    "code": "410400",
+    "id": "62b5e13b9411636a7838ae4c",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "安阳市",
+    "code": "410500",
+    "id": "62b5e13b9411636a7838ae4d",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "鹤壁市",
+    "code": "410600",
+    "id": "62b5e13b9411636a7838ae4e",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "新乡市",
+    "code": "410700",
+    "id": "62b5e13b9411636a7838ae4f",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "焦作市",
+    "code": "410800",
+    "id": "62b5e13b9411636a7838ae50",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "濮阳市",
+    "code": "410900",
+    "id": "62b5e13b9411636a7838ae51",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "许昌市",
+    "code": "411000",
+    "id": "62b5e13b9411636a7838ae52",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "漯河市",
+    "code": "411100",
+    "id": "62b5e13b9411636a7838ae53",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "三门峡市",
+    "code": "411200",
+    "id": "62b5e13b9411636a7838ae54",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "南阳市",
+    "code": "411300",
+    "id": "62b5e13b9411636a7838ae55",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "商丘市",
+    "code": "411400",
+    "id": "62b5e13b9411636a7838ae56",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "信阳市",
+    "code": "411500",
+    "id": "62b5e13b9411636a7838ae57",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "周口市",
+    "code": "411600",
+    "id": "62b5e13b9411636a7838ae58",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "驻马店市",
+    "code": "411700",
+    "id": "62b5e13b9411636a7838ae59",
+    "province": "62b5dbb69411636a7838ad9e"
+  },
+  {
+    "name": "武汉市",
+    "code": "420100",
+    "id": "62b5e13b9411636a7838ae5a",
+    "province": "62b5dbb69411636a7838ad9f"
+  },
+  {
+    "name": "黄石市",
+    "code": "420200",
+    "id": "62b5e13b9411636a7838ae5b",
+    "province": "62b5dbb69411636a7838ad9f"
+  },
+  {
+    "name": "十堰市",
+    "code": "420300",
+    "id": "62b5e13b9411636a7838ae5c",
+    "province": "62b5dbb69411636a7838ad9f"
+  },
+  {
+    "name": "宜昌市",
+    "code": "420500",
+    "id": "62b5e13b9411636a7838ae5d",
+    "province": "62b5dbb69411636a7838ad9f"
+  },
+  {
+    "name": "襄阳市",
+    "code": "420600",
+    "id": "62b5e13b9411636a7838ae5e",
+    "province": "62b5dbb69411636a7838ad9f"
+  },
+  {
+    "name": "鄂州市",
+    "code": "420700",
+    "id": "62b5e13b9411636a7838ae5f",
+    "province": "62b5dbb69411636a7838ad9f"
+  },
+  {
+    "name": "荆门市",
+    "code": "420800",
+    "id": "62b5e13b9411636a7838ae60",
+    "province": "62b5dbb69411636a7838ad9f"
+  },
+  {
+    "name": "孝感市",
+    "code": "420900",
+    "id": "62b5e13b9411636a7838ae61",
+    "province": "62b5dbb69411636a7838ad9f"
+  },
+  {
+    "name": "荆州市",
+    "code": "421000",
+    "id": "62b5e13b9411636a7838ae62",
+    "province": "62b5dbb69411636a7838ad9f"
+  },
+  {
+    "name": "黄冈市",
+    "code": "421100",
+    "id": "62b5e13b9411636a7838ae63",
+    "province": "62b5dbb69411636a7838ad9f"
+  },
+  {
+    "name": "咸宁市",
+    "code": "421200",
+    "id": "62b5e13b9411636a7838ae64",
+    "province": "62b5dbb69411636a7838ad9f"
+  },
+  {
+    "name": "随州市",
+    "code": "421300",
+    "id": "62b5e13b9411636a7838ae65",
+    "province": "62b5dbb69411636a7838ad9f"
+  },
+  {
+    "name": "恩施土家族苗族自治州",
+    "code": "422800",
+    "id": "62b5e13b9411636a7838ae66",
+    "province": "62b5dbb69411636a7838ad9f"
+  },
+  {
+    "name": "长沙市",
+    "code": "430100",
+    "id": "62b5e13b9411636a7838ae67",
+    "province": "62b5dbb69411636a7838ada0"
+  },
+  {
+    "name": "株洲市",
+    "code": "430200",
+    "id": "62b5e13b9411636a7838ae68",
+    "province": "62b5dbb69411636a7838ada0"
+  },
+  {
+    "name": "湘潭市",
+    "code": "430300",
+    "id": "62b5e13b9411636a7838ae69",
+    "province": "62b5dbb69411636a7838ada0"
+  },
+  {
+    "name": "衡阳市",
+    "code": "430400",
+    "id": "62b5e13b9411636a7838ae6a",
+    "province": "62b5dbb69411636a7838ada0"
+  },
+  {
+    "name": "邵阳市",
+    "code": "430500",
+    "id": "62b5e13b9411636a7838ae6b",
+    "province": "62b5dbb69411636a7838ada0"
+  },
+  {
+    "name": "岳阳市",
+    "code": "430600",
+    "id": "62b5e13b9411636a7838ae6c",
+    "province": "62b5dbb69411636a7838ada0"
+  },
+  {
+    "name": "常德市",
+    "code": "430700",
+    "id": "62b5e13b9411636a7838ae6d",
+    "province": "62b5dbb69411636a7838ada0"
+  },
+  {
+    "name": "张家界市",
+    "code": "430800",
+    "id": "62b5e13b9411636a7838ae6e",
+    "province": "62b5dbb69411636a7838ada0"
+  },
+  {
+    "name": "益阳市",
+    "code": "430900",
+    "id": "62b5e13b9411636a7838ae6f",
+    "province": "62b5dbb69411636a7838ada0"
+  },
+  {
+    "name": "郴州市",
+    "code": "431000",
+    "id": "62b5e13b9411636a7838ae70",
+    "province": "62b5dbb69411636a7838ada0"
+  },
+  {
+    "name": "永州市",
+    "code": "431100",
+    "id": "62b5e13b9411636a7838ae71",
+    "province": "62b5dbb69411636a7838ada0"
+  },
+  {
+    "name": "怀化市",
+    "code": "431200",
+    "id": "62b5e13b9411636a7838ae72",
+    "province": "62b5dbb69411636a7838ada0"
+  },
+  {
+    "name": "娄底市",
+    "code": "431300",
+    "id": "62b5e13b9411636a7838ae73",
+    "province": "62b5dbb69411636a7838ada0"
+  },
+  {
+    "name": "湘西土家族苗族自治州",
+    "code": "433100",
+    "id": "62b5e13b9411636a7838ae74",
+    "province": "62b5dbb69411636a7838ada0"
+  },
+  {
+    "name": "广州市",
+    "code": "440100",
+    "id": "62b5e13b9411636a7838ae75",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "韶关市",
+    "code": "440200",
+    "id": "62b5e13b9411636a7838ae76",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "深圳市",
+    "code": "440300",
+    "id": "62b5e13b9411636a7838ae77",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "珠海市",
+    "code": "440400",
+    "id": "62b5e13b9411636a7838ae78",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "汕头市",
+    "code": "440500",
+    "id": "62b5e13b9411636a7838ae79",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "佛山市",
+    "code": "440600",
+    "id": "62b5e13b9411636a7838ae7a",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "江门市",
+    "code": "440700",
+    "id": "62b5e13b9411636a7838ae7b",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "湛江市",
+    "code": "440800",
+    "id": "62b5e13b9411636a7838ae7c",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "茂名市",
+    "code": "440900",
+    "id": "62b5e13b9411636a7838ae7d",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "肇庆市",
+    "code": "441200",
+    "id": "62b5e13b9411636a7838ae7e",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "惠州市",
+    "code": "441300",
+    "id": "62b5e13b9411636a7838ae7f",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "梅州市",
+    "code": "441400",
+    "id": "62b5e13b9411636a7838ae80",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "汕尾市",
+    "code": "441500",
+    "id": "62b5e13b9411636a7838ae81",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "河源市",
+    "code": "441600",
+    "id": "62b5e13b9411636a7838ae82",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "阳江市",
+    "code": "441700",
+    "id": "62b5e13b9411636a7838ae83",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "清远市",
+    "code": "441800",
+    "id": "62b5e13b9411636a7838ae84",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "东莞市",
+    "code": "441900",
+    "id": "62b5e13b9411636a7838ae85",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "中山市",
+    "code": "442000",
+    "id": "62b5e13b9411636a7838ae86",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "潮州市",
+    "code": "445100",
+    "id": "62b5e13b9411636a7838ae87",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "揭阳市",
+    "code": "445200",
+    "id": "62b5e13b9411636a7838ae88",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "云浮市",
+    "code": "445300",
+    "id": "62b5e13b9411636a7838ae89",
+    "province": "62b5dbb69411636a7838ada1"
+  },
+  {
+    "name": "南宁市",
+    "code": "450100",
+    "id": "62b5e13b9411636a7838ae8a",
+    "province": "62b5dbb69411636a7838ada2"
+  },
+  {
+    "name": "柳州市",
+    "code": "450200",
+    "id": "62b5e13b9411636a7838ae8b",
+    "province": "62b5dbb69411636a7838ada2"
+  },
+  {
+    "name": "桂林市",
+    "code": "450300",
+    "id": "62b5e13b9411636a7838ae8c",
+    "province": "62b5dbb69411636a7838ada2"
+  },
+  {
+    "name": "梧州市",
+    "code": "450400",
+    "id": "62b5e13b9411636a7838ae8d",
+    "province": "62b5dbb69411636a7838ada2"
+  },
+  {
+    "name": "北海市",
+    "code": "450500",
+    "id": "62b5e13b9411636a7838ae8e",
+    "province": "62b5dbb69411636a7838ada2"
+  },
+  {
+    "name": "防城港市",
+    "code": "450600",
+    "id": "62b5e13b9411636a7838ae8f",
+    "province": "62b5dbb69411636a7838ada2"
+  },
+  {
+    "name": "钦州市",
+    "code": "450700",
+    "id": "62b5e13b9411636a7838ae90",
+    "province": "62b5dbb69411636a7838ada2"
+  },
+  {
+    "name": "贵港市",
+    "code": "450800",
+    "id": "62b5e13b9411636a7838ae91",
+    "province": "62b5dbb69411636a7838ada2"
+  },
+  {
+    "name": "玉林市",
+    "code": "450900",
+    "id": "62b5e13b9411636a7838ae92",
+    "province": "62b5dbb69411636a7838ada2"
+  },
+  {
+    "name": "百色市",
+    "code": "451000",
+    "id": "62b5e13b9411636a7838ae93",
+    "province": "62b5dbb69411636a7838ada2"
+  },
+  {
+    "name": "贺州市",
+    "code": "451100",
+    "id": "62b5e13b9411636a7838ae94",
+    "province": "62b5dbb69411636a7838ada2"
+  },
+  {
+    "name": "河池市",
+    "code": "451200",
+    "id": "62b5e13b9411636a7838ae95",
+    "province": "62b5dbb69411636a7838ada2"
+  },
+  {
+    "name": "来宾市",
+    "code": "451300",
+    "id": "62b5e13b9411636a7838ae96",
+    "province": "62b5dbb69411636a7838ada2"
+  },
+  {
+    "name": "崇左市",
+    "code": "451400",
+    "id": "62b5e13b9411636a7838ae97",
+    "province": "62b5dbb69411636a7838ada2"
+  },
+  {
+    "name": "海口市",
+    "code": "460100",
+    "id": "62b5e13b9411636a7838ae98",
+    "province": "62b5dbb69411636a7838ada3"
+  },
+  {
+    "name": "三亚市",
+    "code": "460200",
+    "id": "62b5e13b9411636a7838ae99",
+    "province": "62b5dbb69411636a7838ada3"
+  },
+  {
+    "name": "三沙市",
+    "code": "460300",
+    "id": "62b5e13b9411636a7838ae9a",
+    "province": "62b5dbb69411636a7838ada3"
+  },
+  {
+    "name": "儋州市",
+    "code": "460400",
+    "id": "62b5e13b9411636a7838ae9b",
+    "province": "62b5dbb69411636a7838ada3"
+  },
+  {
+    "name": "重庆市",
+    "code": "500100",
+    "id": "62b5e13b9411636a7838ae9c",
+    "province": "62b5dbb69411636a7838ada4"
+  },
+  {
+    "name": "成都市",
+    "code": "510100",
+    "id": "62b5e13b9411636a7838ae9d",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "自贡市",
+    "code": "510300",
+    "id": "62b5e13b9411636a7838ae9e",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "攀枝花市",
+    "code": "510400",
+    "id": "62b5e13b9411636a7838ae9f",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "泸州市",
+    "code": "510500",
+    "id": "62b5e13b9411636a7838aea0",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "德阳市",
+    "code": "510600",
+    "id": "62b5e13b9411636a7838aea1",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "绵阳市",
+    "code": "510700",
+    "id": "62b5e13b9411636a7838aea2",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "广元市",
+    "code": "510800",
+    "id": "62b5e13b9411636a7838aea3",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "遂宁市",
+    "code": "510900",
+    "id": "62b5e13b9411636a7838aea4",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "内江市",
+    "code": "511000",
+    "id": "62b5e13b9411636a7838aea5",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "乐山市",
+    "code": "511100",
+    "id": "62b5e13b9411636a7838aea6",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "南充市",
+    "code": "511300",
+    "id": "62b5e13b9411636a7838aea7",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "眉山市",
+    "code": "511400",
+    "id": "62b5e13b9411636a7838aea8",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "宜宾市",
+    "code": "511500",
+    "id": "62b5e13b9411636a7838aea9",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "广安市",
+    "code": "511600",
+    "id": "62b5e13b9411636a7838aeaa",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "达州市",
+    "code": "511700",
+    "id": "62b5e13b9411636a7838aeab",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "雅安市",
+    "code": "511800",
+    "id": "62b5e13b9411636a7838aeac",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "巴中市",
+    "code": "511900",
+    "id": "62b5e13b9411636a7838aead",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "资阳市",
+    "code": "512000",
+    "id": "62b5e13b9411636a7838aeae",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "阿坝藏族羌族自治州",
+    "code": "513200",
+    "id": "62b5e13b9411636a7838aeaf",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "甘孜藏族自治州",
+    "code": "513300",
+    "id": "62b5e13b9411636a7838aeb0",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "凉山彝族自治州",
+    "code": "513400",
+    "id": "62b5e13b9411636a7838aeb1",
+    "province": "62b5dbb69411636a7838ada5"
+  },
+  {
+    "name": "贵阳市",
+    "code": "520100",
+    "id": "62b5e13b9411636a7838aeb2",
+    "province": "62b5dbb69411636a7838ada6"
+  },
+  {
+    "name": "六盘水市",
+    "code": "520200",
+    "id": "62b5e13b9411636a7838aeb3",
+    "province": "62b5dbb69411636a7838ada6"
+  },
+  {
+    "name": "遵义市",
+    "code": "520300",
+    "id": "62b5e13b9411636a7838aeb4",
+    "province": "62b5dbb69411636a7838ada6"
+  },
+  {
+    "name": "安顺市",
+    "code": "520400",
+    "id": "62b5e13b9411636a7838aeb5",
+    "province": "62b5dbb69411636a7838ada6"
+  },
+  {
+    "name": "毕节市",
+    "code": "520500",
+    "id": "62b5e13b9411636a7838aeb6",
+    "province": "62b5dbb69411636a7838ada6"
+  },
+  {
+    "name": "铜仁市",
+    "code": "520600",
+    "id": "62b5e13b9411636a7838aeb7",
+    "province": "62b5dbb69411636a7838ada6"
+  },
+  {
+    "name": "黔西南布依族苗族自治州",
+    "code": "522300",
+    "id": "62b5e13b9411636a7838aeb8",
+    "province": "62b5dbb69411636a7838ada6"
+  },
+  {
+    "name": "黔东南苗族侗族自治州",
+    "code": "522600",
+    "id": "62b5e13b9411636a7838aeb9",
+    "province": "62b5dbb69411636a7838ada6"
+  },
+  {
+    "name": "黔南布依族苗族自治州",
+    "code": "522700",
+    "id": "62b5e13b9411636a7838aeba",
+    "province": "62b5dbb69411636a7838ada6"
+  },
+  {
+    "name": "昆明市",
+    "code": "530100",
+    "id": "62b5e13b9411636a7838aebb",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "曲靖市",
+    "code": "530300",
+    "id": "62b5e13b9411636a7838aebc",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "玉溪市",
+    "code": "530400",
+    "id": "62b5e13b9411636a7838aebd",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "保山市",
+    "code": "530500",
+    "id": "62b5e13b9411636a7838aebe",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "昭通市",
+    "code": "530600",
+    "id": "62b5e13b9411636a7838aebf",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "丽江市",
+    "code": "530700",
+    "id": "62b5e13b9411636a7838aec0",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "普洱市",
+    "code": "530800",
+    "id": "62b5e13b9411636a7838aec1",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "临沧市",
+    "code": "530900",
+    "id": "62b5e13b9411636a7838aec2",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "楚雄彝族自治州",
+    "code": "532300",
+    "id": "62b5e13b9411636a7838aec3",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "红河哈尼族彝族自治州",
+    "code": "532500",
+    "id": "62b5e13b9411636a7838aec4",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "文山壮族苗族自治州",
+    "code": "532600",
+    "id": "62b5e13b9411636a7838aec5",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "西双版纳傣族自治州",
+    "code": "532800",
+    "id": "62b5e13b9411636a7838aec6",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "大理白族自治州",
+    "code": "532900",
+    "id": "62b5e13b9411636a7838aec7",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "德宏傣族景颇族自治州",
+    "code": "533100",
+    "id": "62b5e13b9411636a7838aec8",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "怒江傈僳族自治州",
+    "code": "533300",
+    "id": "62b5e13b9411636a7838aec9",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "迪庆藏族自治州",
+    "code": "533400",
+    "id": "62b5e13b9411636a7838aeca",
+    "province": "62b5dbb69411636a7838ada7"
+  },
+  {
+    "name": "拉萨市",
+    "code": "540100",
+    "id": "62b5e13b9411636a7838aecb",
+    "province": "62b5dbb69411636a7838ada8"
+  },
+  {
+    "name": "日喀则市",
+    "code": "540200",
+    "id": "62b5e13b9411636a7838aecc",
+    "province": "62b5dbb69411636a7838ada8"
+  },
+  {
+    "name": "昌都市",
+    "code": "540300",
+    "id": "62b5e13b9411636a7838aecd",
+    "province": "62b5dbb69411636a7838ada8"
+  },
+  {
+    "name": "林芝市",
+    "code": "540400",
+    "id": "62b5e13b9411636a7838aece",
+    "province": "62b5dbb69411636a7838ada8"
+  },
+  {
+    "name": "山南市",
+    "code": "540500",
+    "id": "62b5e13b9411636a7838aecf",
+    "province": "62b5dbb69411636a7838ada8"
+  },
+  {
+    "name": "那曲市",
+    "code": "540600",
+    "id": "62b5e13b9411636a7838aed0",
+    "province": "62b5dbb69411636a7838ada8"
+  },
+  {
+    "name": "阿里地区",
+    "code": "542500",
+    "id": "62b5e13b9411636a7838aed1",
+    "province": "62b5dbb69411636a7838ada8"
+  },
+  {
+    "name": "西安市",
+    "code": "610100",
+    "id": "62b5e13b9411636a7838aed2",
+    "province": "62b5dbb69411636a7838ada9"
+  },
+  {
+    "name": "铜川市",
+    "code": "610200",
+    "id": "62b5e13b9411636a7838aed3",
+    "province": "62b5dbb69411636a7838ada9"
+  },
+  {
+    "name": "宝鸡市",
+    "code": "610300",
+    "id": "62b5e13b9411636a7838aed4",
+    "province": "62b5dbb69411636a7838ada9"
+  },
+  {
+    "name": "咸阳市",
+    "code": "610400",
+    "id": "62b5e13b9411636a7838aed5",
+    "province": "62b5dbb69411636a7838ada9"
+  },
+  {
+    "name": "渭南市",
+    "code": "610500",
+    "id": "62b5e13b9411636a7838aed6",
+    "province": "62b5dbb69411636a7838ada9"
+  },
+  {
+    "name": "延安市",
+    "code": "610600",
+    "id": "62b5e13b9411636a7838aed7",
+    "province": "62b5dbb69411636a7838ada9"
+  },
+  {
+    "name": "汉中市",
+    "code": "610700",
+    "id": "62b5e13b9411636a7838aed8",
+    "province": "62b5dbb69411636a7838ada9"
+  },
+  {
+    "name": "榆林市",
+    "code": "610800",
+    "id": "62b5e13b9411636a7838aed9",
+    "province": "62b5dbb69411636a7838ada9"
+  },
+  {
+    "name": "安康市",
+    "code": "610900",
+    "id": "62b5e13b9411636a7838aeda",
+    "province": "62b5dbb69411636a7838ada9"
+  },
+  {
+    "name": "商洛市",
+    "code": "611000",
+    "id": "62b5e13b9411636a7838aedb",
+    "province": "62b5dbb69411636a7838ada9"
+  },
+  {
+    "name": "兰州市",
+    "code": "620100",
+    "id": "62b5e13b9411636a7838aedc",
+    "province": "62b5dbb69411636a7838adaa"
+  },
+  {
+    "name": "嘉峪关市",
+    "code": "620200",
+    "id": "62b5e13b9411636a7838aedd",
+    "province": "62b5dbb69411636a7838adaa"
+  },
+  {
+    "name": "金昌市",
+    "code": "620300",
+    "id": "62b5e13b9411636a7838aede",
+    "province": "62b5dbb69411636a7838adaa"
+  },
+  {
+    "name": "白银市",
+    "code": "620400",
+    "id": "62b5e13b9411636a7838aedf",
+    "province": "62b5dbb69411636a7838adaa"
+  },
+  {
+    "name": "天水市",
+    "code": "620500",
+    "id": "62b5e13b9411636a7838aee0",
+    "province": "62b5dbb69411636a7838adaa"
+  },
+  {
+    "name": "武威市",
+    "code": "620600",
+    "id": "62b5e13b9411636a7838aee1",
+    "province": "62b5dbb69411636a7838adaa"
+  },
+  {
+    "name": "张掖市",
+    "code": "620700",
+    "id": "62b5e13b9411636a7838aee2",
+    "province": "62b5dbb69411636a7838adaa"
+  },
+  {
+    "name": "平凉市",
+    "code": "620800",
+    "id": "62b5e13b9411636a7838aee3",
+    "province": "62b5dbb69411636a7838adaa"
+  },
+  {
+    "name": "酒泉市",
+    "code": "620900",
+    "id": "62b5e13b9411636a7838aee4",
+    "province": "62b5dbb69411636a7838adaa"
+  },
+  {
+    "name": "庆阳市",
+    "code": "621000",
+    "id": "62b5e13b9411636a7838aee5",
+    "province": "62b5dbb69411636a7838adaa"
+  },
+  {
+    "name": "定西市",
+    "code": "621100",
+    "id": "62b5e13b9411636a7838aee6",
+    "province": "62b5dbb69411636a7838adaa"
+  },
+  {
+    "name": "陇南市",
+    "code": "621200",
+    "id": "62b5e13b9411636a7838aee7",
+    "province": "62b5dbb69411636a7838adaa"
+  },
+  {
+    "name": "临夏回族自治州",
+    "code": "622900",
+    "id": "62b5e13b9411636a7838aee8",
+    "province": "62b5dbb69411636a7838adaa"
+  },
+  {
+    "name": "甘南藏族自治州",
+    "code": "623000",
+    "id": "62b5e13b9411636a7838aee9",
+    "province": "62b5dbb69411636a7838adaa"
+  },
+  {
+    "name": "西宁市",
+    "code": "630100",
+    "id": "62b5e13b9411636a7838aeea",
+    "province": "62b5dbb69411636a7838adab"
+  },
+  {
+    "name": "海东市",
+    "code": "630200",
+    "id": "62b5e13b9411636a7838aeeb",
+    "province": "62b5dbb69411636a7838adab"
+  },
+  {
+    "name": "海北藏族自治州",
+    "code": "632200",
+    "id": "62b5e13b9411636a7838aeec",
+    "province": "62b5dbb69411636a7838adab"
+  },
+  {
+    "name": "黄南藏族自治州",
+    "code": "632300",
+    "id": "62b5e13b9411636a7838aeed",
+    "province": "62b5dbb69411636a7838adab"
+  },
+  {
+    "name": "海南藏族自治州",
+    "code": "632500",
+    "id": "62b5e13b9411636a7838aeee",
+    "province": "62b5dbb69411636a7838adab"
+  },
+  {
+    "name": "果洛藏族自治州",
+    "code": "632600",
+    "id": "62b5e13b9411636a7838aeef",
+    "province": "62b5dbb69411636a7838adab"
+  },
+  {
+    "name": "玉树藏族自治州",
+    "code": "632700",
+    "id": "62b5e13b9411636a7838aef0",
+    "province": "62b5dbb69411636a7838adab"
+  },
+  {
+    "name": "海西蒙古族藏族自治州",
+    "code": "632800",
+    "id": "62b5e13b9411636a7838aef1",
+    "province": "62b5dbb69411636a7838adab"
+  },
+  {
+    "name": "银川市",
+    "code": "640100",
+    "id": "62b5e13b9411636a7838aef2",
+    "province": "62b5dbb69411636a7838adac"
+  },
+  {
+    "name": "石嘴山市",
+    "code": "640200",
+    "id": "62b5e13b9411636a7838aef3",
+    "province": "62b5dbb69411636a7838adac"
+  },
+  {
+    "name": "吴忠市",
+    "code": "640300",
+    "id": "62b5e13b9411636a7838aef4",
+    "province": "62b5dbb69411636a7838adac"
+  },
+  {
+    "name": "固原市",
+    "code": "640400",
+    "id": "62b5e13b9411636a7838aef5",
+    "province": "62b5dbb69411636a7838adac"
+  },
+  {
+    "name": "中卫市",
+    "code": "640500",
+    "id": "62b5e13b9411636a7838aef6",
+    "province": "62b5dbb69411636a7838adac"
+  },
+  {
+    "name": "乌鲁木齐市",
+    "code": "650100",
+    "id": "62b5e13b9411636a7838aef7",
+    "province": "62b5dbb69411636a7838adad"
+  },
+  {
+    "name": "克拉玛依市",
+    "code": "650200",
+    "id": "62b5e13b9411636a7838aef8",
+    "province": "62b5dbb69411636a7838adad"
+  },
+  {
+    "name": "吐鲁番市",
+    "code": "650400",
+    "id": "62b5e13b9411636a7838aef9",
+    "province": "62b5dbb69411636a7838adad"
+  },
+  {
+    "name": "哈密市",
+    "code": "650500",
+    "id": "62b5e13b9411636a7838aefa",
+    "province": "62b5dbb69411636a7838adad"
+  },
+  {
+    "name": "昌吉回族自治州",
+    "code": "652300",
+    "id": "62b5e13b9411636a7838aefb",
+    "province": "62b5dbb69411636a7838adad"
+  },
+  {
+    "name": "博尔塔拉蒙古自治州",
+    "code": "652700",
+    "id": "62b5e13b9411636a7838aefc",
+    "province": "62b5dbb69411636a7838adad"
+  },
+  {
+    "name": "巴音郭楞蒙古自治州",
+    "code": "652800",
+    "id": "62b5e13b9411636a7838aefd",
+    "province": "62b5dbb69411636a7838adad"
+  },
+  {
+    "name": "阿克苏地区",
+    "code": "652900",
+    "id": "62b5e13b9411636a7838aefe",
+    "province": "62b5dbb69411636a7838adad"
+  },
+  {
+    "name": "克孜勒苏柯尔克孜自治州",
+    "code": "653000",
+    "id": "62b5e13b9411636a7838aeff",
+    "province": "62b5dbb69411636a7838adad"
+  },
+  {
+    "name": "喀什地区",
+    "code": "653100",
+    "id": "62b5e13b9411636a7838af00",
+    "province": "62b5dbb69411636a7838adad"
+  },
+  {
+    "name": "和田地区",
+    "code": "653200",
+    "id": "62b5e13b9411636a7838af01",
+    "province": "62b5dbb69411636a7838adad"
+  },
+  {
+    "name": "伊犁哈萨克自治州",
+    "code": "654000",
+    "id": "62b5e13b9411636a7838af02",
+    "province": "62b5dbb69411636a7838adad"
+  },
+  {
+    "name": "塔城地区",
+    "code": "654200",
+    "id": "62b5e13b9411636a7838af03",
+    "province": "62b5dbb69411636a7838adad"
+  },
+  {
+    "name": "阿勒泰地区",
+    "code": "654300",
+    "id": "62b5e13b9411636a7838af04",
+    "province": "62b5dbb69411636a7838adad"
+  }
+]
